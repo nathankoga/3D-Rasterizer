@@ -1,6 +1,6 @@
 # 3D-Rasterizer
 
-This project implements a rasterizer from scratch that is capable of rendering 3D images from any arbitrary camera position using a scanline algorithm. Utilizing the Phong-shading model, Z-buffering, and linear interpolation, this program is capable of displaying objects with realistic lighting, depth, and color. 
+This project implements a rasterizer in C from scratch that is capable of rendering 3D images from any arbitrary camera position using a scanline algorithm. Utilizing the Phong-shading model, Z-buffering, and linear interpolation, this program is capable of displaying objects with realistic lighting, depth, and color. 
 
 To use this program, the "ws_tris.txt" file that stores triangle data (inlcuding cartesian coordinates, colors, and normal vectors for each vertex) and outputs a pnm file of the resulting image.
 
